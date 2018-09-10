@@ -83,7 +83,7 @@ const Layout = ({ children }) => (
           {children}
           <Footer>
             &copy; 2018 by Asam Shan. All rights reserved. <br />
-            <a href="https://github.com/shan5742/blog">GitHub Repository</a> <br />
+            <a href="https://github.com/shan5742/my-blog">GitHub Repository</a> <br />
             <span>Last build: {data.site.buildTime}</span>
           </Footer>;
         </React.Fragment>
