@@ -1,5 +1,5 @@
 ---
-date: "2018-09-08"
+date: "2018-09-11"
 title: "Mindfulness"
 category: "General"
 ---
