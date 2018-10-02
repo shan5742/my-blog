@@ -1,5 +1,5 @@
 ---
-date: "2018-10-01"
+date: "2018-10-02"
 title: "Give Me That Tee"
 category: "General"
 ---
