@@ -1,5 +1,5 @@
 ---
-date: "2018-10-08"
+date: "2018-10-07"
 title: "Interview Reflection"
 category: "General"
 ---
@@ -13,4 +13,4 @@ The interview was condicted by Adam and another colleague of his called Carl, th
 
 Towards the end I was told the next stage, if sucessful would be a second interview with the CEO which would be a cultural interview. I got some decent vibes, feel everything went well so I am hopeful I can progress to the next stage, but either way it was a good experience, yet another strong indicator that this life is for me.
 
-Hopefully I can follow this up with a success story, but either way I'm going to keep trucking on! 
+Hopefully I can follow this up with a success story, but either way I'm going to keep trucking on!
