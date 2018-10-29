@@ -6,7 +6,7 @@ category: "General"
 
 I've been somewhat slacking since my first interview rejection, part due to being a little disheartened, part due to being a little confused in terms of direction and part due to being busy.
 
-I have just got back from a week in Ireland, which was great, I feel refreshed and ready to go again now. My GutHub profile has a noteable lack of activity for October so it's time to change that and keep up with my studying, building out a portfolio and keeping up with other skills, such as scripting, basic server admin and I also want to make some time to satisfy my curiosity.
+I have just got back from a week in Ireland, which was great, I feel refreshed and ready to go again now. My GutHub profile has a notable lack of activity for October so it's time to change that and keep up with my studying, building out a portfolio and keeping up with other skills, such as scripting, basic server admin and I also want to make some time to satisfy my curiosity.
 
 In particular Go, is a language that has interested me for a while, but it is not really super relevant in terms of me getting a job, but I still think it is important to satisfy this first, so I will occasionally be working through the language and learning bits and pieces when I get time.
 
