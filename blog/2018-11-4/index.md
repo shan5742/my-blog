@@ -1,5 +1,5 @@
 ---
-date: "2018-10-29"
+date: "2018-11-4"
 title: "Applying to Jobs Before You're Ready"
 category: "General"
 ---
@@ -54,5 +54,3 @@ Here is a a little checklist before applying:
 5. make small edits to your CV if needed based on job description
 
 That is pretty much it, if you follow the advice laid out here I'm sure you will have great results, please come back and let me know how you get on or don't be afraid to reach out if you have anymore questions.
-
-Peace.
