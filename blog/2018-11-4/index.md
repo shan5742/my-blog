@@ -1,5 +1,5 @@
 ---
-date: "2018-11-4"
+date: "2018-11-04"
 title: "Applying to Jobs Before You're Ready"
 category: "General"
 ---
