@@ -46,7 +46,7 @@ const IndexPage = ({
     <Wrapper>
       <Hero>
         <h1>Hi.</h1>
-        <p>I&apos;m Asam Shan, a self proclaimed geek, JavaScript Junkie, Linux Lover and Coffee connoisseur. Please reach out if you'd like some help, advice or maybe you want to work with me?</p>
+        <p>I&apos;m Asam, proud geek, JavaScript Junkie and Linux lover. Please reach out if you'd like some help, advice or maybe you want to work with me?</p>
         <Link to="/contact">
           <Button big>
             <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
