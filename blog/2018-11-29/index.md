@@ -3,7 +3,7 @@ date: "2018-11-29"
 title: "Reset followed by a BIG push"
 category: "General"
 ---
- I've been a little quiter than I would like on this blog and with programming in general, the passion is still very much there, but as often is the case real life gets in the way. I've been super busy helping a family member with a new business, which has been great. It is nice to get involved with it as business is something that has always been of interest to me, seeing something grow day on day is pretty great. However, being involved with that and other things that are going on have meant I have had way less time to code, so I need to rectify that. 
+ I've been a little quieter than I would like on this blog and with programming in general, the passion is still very much there, but as often is the case real life gets in the way. I've been super busy helping a family member with a new business, which has been great. It is nice to get involved with it as business is something that has always been of interest to me, seeing something grow day on day is pretty great. However, being involved with that and other things that are going on have meant I have had way less time to code, so I need to rectify that. 
  
  ## Holidays are Coming
  
@@ -17,4 +17,4 @@ I'm not really one for new years resolutions or anything liek that, but it happe
 
 I also need to be mindful of my overall goal here, while I do really enjoy programming and learning new things I must keep in myind that I started all of this because I wanted to transition into a new career, which has not changed, so I need to make steps towards tha goal too. My aim is to be employed bny Summer next year, but hopefully a lot sooner.
 
-To make this happen I am going to be ramping up my networking, attending as many events and meetups I can, applying to eveything that is within reach ot me where I hit 50% of the criteria and polisihing up my interview skills. 
+To make this happen I am going to be ramping up my networking, attending as many events and meetups I can, applying to everything that is within reach ot me where I hit 50% of the criteria and polisihing up my interview skills. 
